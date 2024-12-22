@@ -1,0 +1,128 @@
+[
+  {
+    "mind": 2,
+    "name": "Galadriel",
+    "xp": 848,
+    "spirit": 2,
+    "body": -1,
+    "class": "Champion",
+    "player": "Eru Ilúvatar"
+  },
+  {
+    "mind": -1,
+    "name": "Hellboy",
+    "xp": 848,
+    "spirit": 2,
+    "body": 0,
+    "class": "Champion",
+    "player": "ComicSans"
+  },
+  {
+    "mind": 0,
+    "name": "Luke Skywalker",
+    "xp": 568,
+    "spirit": -1,
+    "body": -1,
+    "class": "Warrior",
+    "player": "Lucas Films"
+  },
+  {
+    "mind": -1,
+    "name": "Maedhros",
+    "xp": 636,
+    "spirit": 2,
+    "body": 0,
+    "class": "Adventurer",
+    "player": "SonsOfFeanor"
+  },
+  {
+    "mind": 0,
+    "name": "Niënor Níniel",
+    "xp": 1012,
+    "spirit": 1,
+    "body": 3,
+    "class": "Champion",
+    "player": "Eru Ilúvatar"
+  },
+  {
+    "mind": -1,
+    "name": "Percival Fredrickstein von Musel Klossowski de Rolo III",
+    "xp": 568,
+    "spirit": 1,
+    "body": 1,
+    "class": "Warrior",
+    "player": "Critter9"
+  },
+  {
+    "mind": 2,
+    "name": "Túrin Turambar",
+    "xp": 332,
+    "spirit": 2,
+    "body": 1,
+    "class": "Adventurer",
+    "player": "Eru Ilúvatar"
+  },
+  {
+    "mind": 2,
+    "name": "Vi",
+    "xp": 884,
+    "spirit": -1,
+    "body": 0,
+    "class": "Adventurer",
+    "player": "IPlayLOLInClass"
+  },
+  {
+    "mind": 0,
+    "name": "Komecocos",
+    "xp": 2516,
+    "spirit": -1,
+    "body": 1,
+    "class": "Champion",
+    "player": "komecocos"
+  },
+  {
+    "mind": 1,
+    "name": "Finrod Felagund",
+    "xp": 3036,
+    "spirit": 1,
+    "body": 1,
+    "class": "Champion",
+    "player": "Eru Ilúvatar"
+  },
+  {
+    "mind": 1,
+    "name": "Prueba",
+    "xp": 5042,
+    "spirit": 3,
+    "body": 1,
+    "class": "Champion",
+    "player": "Carlos"
+  },
+  {
+    "mind": 1,
+    "name": "Pruebados",
+    "xp": 5264,
+    "spirit": 1,
+    "body": 1,
+    "class": "Champion",
+    "player": "Carlos"
+  },
+  {
+    "mind": 1,
+    "name": "Pruebacuatro",
+    "xp": 8230,
+    "spirit": 3,
+    "body": 1,
+    "class": "Champion",
+    "player": "Carlos"
+  },
+  {
+    "mind": 0,
+    "name": "Carlos",
+    "xp": 2408,
+    "spirit": 0,
+    "body": 1,
+    "class": "Mage",
+    "player": "Carlos"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "adventure": {
+      "encounters": [
+        {
+          "number": 1,
+          "monsters": [
+            {
+              "quantity": 1,
+              "name": "Smaug",
+              "challenge": "Boss"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "monsters": [
+            {
+              "quantity": 1,
+              "name": "Troll",
+              "challenge": "Lieutenant"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "monsters": [
+            {
+              "quantity": 1,
+              "name": "Snaga",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 1,
+              "name": "Goblin",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 1,
+              "name": "Snuffler",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 1,
+              "name": "Crebain",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 1,
+              "name": "Orc Shaman",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 1,
+              "name": "Sauron",
+              "challenge": "Boss"
+            }
+          ]
+        }
+      ],
+      "name": "Carlos",
+      "numberOfEncounters": 3
+    }
+  },
+  {
+    "adventure": {
+      "encounters": [
+        {
+          "number": 1,
+          "monsters": [
+            {
+              "quantity": 20,
+              "name": "Snaga",
+              "challenge": "Minion"
+            }
+          ]
+        }
+      ],
+      "name": "Car",
+      "numberOfEncounters": 1
+    }
+  },
+  {
+    "adventure": {
+      "encounters": [
+        {
+          "number": 1,
+          "monsters": [
+            {
+              "quantity": 1,
+              "name": "Snaga",
+              "challenge": "Minion"
+            }
+          ]
+        }
+      ],
+      "name": "Prueba",
+      "numberOfEncounters": 1
+    }
+  },
+  {
+    "adventure": {
+      "encounters": [
+        {
+          "number": 1,
+          "monsters": [
+            {
+              "quantity": 1,
+              "name": "Morgoth",
+              "challenge": "Boss"
+            },
+            {
+              "quantity": 9999,
+              "name": "Snuffler",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 100000,
+              "name": "Snaga",
+              "challenge": "Minion"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "monsters": [
+            {
+              "quantity": 1,
+              "name": "Balrog",
+              "challenge": "Boss"
+            },
+            {
+              "quantity": 99,
+              "name": "Orc Captain",
+              "challenge": "Lieutenant"
+            }
+          ]
+        }
+      ],
+      "name": "Aventura Prueba",
+      "numberOfEncounters": 2
+    }
+  },
+  {
+    "adventure": {
+      "encounters": [
+        {
+          "number": 1,
+          "monsters": [
+            {
+              "quantity": 100,
+              "name": "Snaga",
+              "challenge": "Minion"
+            },
+            {
+              "quantity": 10,
+              "name": "Goblin",
+              "challenge": "Minion"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "monsters": [
+            {
+              "quantity": 30,
+              "name": "Snaga",
+              "challenge": "Minion"
+            }
+          ]
+        }
+      ],
+      "name": "Muchomontruo",
+      "numberOfEncounters": 2
+    }
+  }
+]
